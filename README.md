@@ -19,3 +19,8 @@ How to run the tool: Choose the country code,
  the number of messages. One is
  recommended each time you run the tool.
  Greetings to all.
+------------------------
+git clone https://github.com/sandol7/Spam-Arab.git
+cd Spam-Arad 
+python3 spam.py
+
